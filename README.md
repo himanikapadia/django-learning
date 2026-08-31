@@ -1,40 +1,66 @@
-# 🚀 Django Learning Journey & Daily Streak
+# Django Learning Project
 
-A step-by-step repository dedicated to mastering Django from the ground up, building practical features, and keeping the daily GitHub green streak alive.
+This repository is for learning and practicing Django by building things step by step.
 
----
+## 🚀 Current Progress
 
-## 📌 Topics & Roadmap
-
-- [ ] Django project/app structure
-- [ ] URLs
-- [ ] Views
-- [ ] Templates
-- [ ] Static files
-- [ ] Models
-- [ ] Migrations
-- [ ] Admin
-- [ ] ORM
-- [ ] CRUD
-- [ ] Forms
-- [ ] Validation
-- [ ] Relationships
-- [ ] Authentication
-- [ ] Search/filtering
-- [ ] Basic dashboard
-- [ ] Git/GitHub workflow
-
----
+* [x] Django project setup
+* [ ] Create Django apps
+* [ ] URL routing
+* [ ] Views
+* [ ] Templates
+* [ ] Static files
+* [ ] Models & migrations
+* [ ] Django Admin
+* [ ] Forms
+* [ ] Authentication
+* [ ] Build a complete project
 
 ## 🛠️ Tech Stack
 
- **Language:** Python 3.x
- **Framework:** Django
- **Database:** SQLite / PostgreSQL
- **Version Control:** Git & GitHub
+* Python
+* Django
+* SQLite
 
----
+## ▶️ Run Locally
 
-## 🎯 Goal
+Clone the repository:
 
-Maintain a daily coding streak, write clean code, and check off every topic on the list!
+```bash
+git clone <your-repository-url>
+cd <your-project-folder>
+```
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+Activate it on Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
+pip install django
+```
+
+Run the development server:
+
+```bash
+python manage.py runserver
+```
+
+Then open:
+
+```text
+http://127.0.0.1:8000/
+```
+
+## 📌 About
+
+This is a learning project, so the codebase will evolve as I learn more about Django and build new features.
