@@ -26,10 +26,7 @@ This repository is for learning and practicing Django by building things step by
 
 Clone the repository:
 
-```bash
-git clone <your-repository-url>
-cd <your-project-folder>
-```
+
 
 Create and activate a virtual environment:
 
