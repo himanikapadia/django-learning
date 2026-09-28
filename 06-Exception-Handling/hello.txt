@@ -1,2 +1,0 @@
-Welcome to Python Exception Handling!
-This is a sample file.
