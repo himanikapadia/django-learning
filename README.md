@@ -1,6 +1,6 @@
 # Django Learning Project
 
-This repository is for learning and practicing Django by building things step by step.
+This repository is for learning and practicing Django by building things.
 
 ## 🚀 Current Progress
 
