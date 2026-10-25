@@ -12,7 +12,6 @@ This repository is for learning and practicing Django by building things.
 * [ ] Static files
 * [ ] Models & migrations
 * [ ] Django Admin
-* [ ] Forms
 * [ ] Authentication
 * [ ] Build a complete project
 
