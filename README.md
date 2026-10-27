@@ -2,7 +2,7 @@
 
 This repository is for learning and practicing Django by building things.
 
-## 🚀 Current Progress
+## 🚀 Current Progresse
 
 * [x] Django project setup
 * [ ] Create Django apps
