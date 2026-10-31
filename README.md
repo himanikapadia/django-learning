@@ -1,4 +1,4 @@
-# Django Learning Project
+# Django Learning repo
 
 This repository is for learning and practicing Django by building things.
 
