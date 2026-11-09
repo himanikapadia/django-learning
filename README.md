@@ -15,7 +15,7 @@ This repository is for learning and practicing Django by building things.
 * [ ] Authentication
 * [ ] Build a complete project
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
 * Python
 * Django
